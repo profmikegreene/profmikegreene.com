@@ -8,5 +8,8 @@ layout: page
 permalink: https://profmikegreene.com/demo/
 published: true
 ---
-<p>Here is some demo content. Edited in Wordpress visual editor.</p>
+<p>Here is some demo HTML content. Edited in Wordpress visual editor.</p>
 <p>&nbsp;</p>
+
+
+## Can it handle JP Markdown stuff?
