@@ -8,6 +8,5 @@ layout: page
 permalink: https://profmikegreene.com/demo/
 published: true
 ---
+<p>Here is some demo content. Edited in Wordpress visual editor.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>[wpghs target="edit"]</p>
