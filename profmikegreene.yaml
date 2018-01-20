@@ -1,0 +1,11 @@
+email: profmikegreene@gmail.com
+fullname: 'Michael Greene'
+title: 'Head, Learning Technology Services & Strategy'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$n35.r6e0ZjOe57J0dZSh7eVjP6Q5EdrraOoviRl1nu6CZt9qrZajC
