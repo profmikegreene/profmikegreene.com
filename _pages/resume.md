@@ -34,9 +34,16 @@ dsq_thread_id:
 <header>Experience</header>
 <article>
 <div class="left-col" style="width: 55%;">
+  <h2>Associate Director, Learning Technology Services & Strategy</h2>
+  <p>Duke Learning Innovation, Durham NC
+  <em>2015 - current</em></p>
+  <ul>
+    <li>Lead the strategy and operations for Duke’s learning technology ecosystem including Learning Management System.</li>
+    <li>Form, grow, and manage a team of learning technology analysts.</li>
+  </ul>
 <h2>Assistant Professor of IT/Discipline Lead</h2>
 <p>Rappahannock Community College, Glenns VA,<br />
-<i>2013 - Current, Adjunct Faculty from 2007-2012</i></p>
+<em>2013 - 2014, Adjunct Faculty from 2007 - 2012, 2015 - 2019</em></p>
 <ul>
 <li>Develop curricula and programs to meet market, college, and student needs.</li>
 <li>Guide, manage, and assess IT courses, faculty, and programs.</li>
@@ -47,7 +54,7 @@ dsq_thread_id:
 <li>Supervise work-study students and classrooms of 5-60 students.</li>
 </ul>
 <h2>Web Solutions Specialist</h2>
-<p>Rappahannock Community College, Glenns VA, <i>2008 - 2013</i></p>
+<p>Rappahannock Community College, Glenns VA, <em>2008 - 2013</em></p>
 <ul>
 <li>Managed and implemented IT projects impacting all college departments and stakeholders.</li>
 <li>Provided strategic leadership and direction for college web services.</li>
@@ -64,7 +71,7 @@ dsq_thread_id:
 <li>Planned, shot, and produced audio/video content for web distribution.</li>
 </ul>
 <h2>Co-Owner and Lead Web Developer</h2>
-<p>SteelSpring Design, Warsaw VA, <i>2006 - 2009</i></p>
+<p>SteelSpring Design, Warsaw VA, <em>2006 - 2009</em></p>
 <ul>
 <li>Consulted with business leaders to understand business needs and objectives.</li>
 <li>Developed web solutions to achieve business objectives.</li>
